@@ -5,7 +5,7 @@ emandev-osu is a php app from heroku and adapted with h5ai
 Contains osz files (osu beatmaps).
 
 ## Status
-Closed (Not being used for now)
+Disabled - Never gonna use again (probably).
 
 ## h5ai
 Version 0.29.2
